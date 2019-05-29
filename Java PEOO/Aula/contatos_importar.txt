@@ -1,2 +1,0 @@
-{"endereco":{},"grupo":"Amigos","nome":"sdfd","telefones":[{"numero":"sdfdsf","codArea":"sfd","operadora":"sdfds"}]}
-{"endereco":{},"grupo":"Trabalho","nome":"jhjhgk","telefones":[{"numero":"hgjh","codArea":"jhgfjh","operadora":"jhgj"}]}
